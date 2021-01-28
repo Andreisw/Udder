@@ -16,6 +16,7 @@
 		7C07B90D25C3471800DC72E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C07B90B25C3471800DC72E6 /* LaunchScreen.storyboard */; };
 		7C07B91825C3471900DC72E6 /* UdderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C07B91725C3471900DC72E6 /* UdderTests.swift */; };
 		7C07B92325C3471900DC72E6 /* UdderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C07B92225C3471900DC72E6 /* UdderUITests.swift */; };
+		7C07B93425C3475C00DC72E6 /* 5469c82c-b501-4b16-b79e-eb5bbb0c67af.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7C07B93325C3475C00DC72E6 /* 5469c82c-b501-4b16-b79e-eb5bbb0c67af.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		7C07B91E25C3471900DC72E6 /* UdderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UdderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C07B92225C3471900DC72E6 /* UdderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UdderUITests.swift; sourceTree = "<group>"; };
 		7C07B92425C3471900DC72E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C07B93325C3475C00DC72E6 /* 5469c82c-b501-4b16-b79e-eb5bbb0c67af.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5469c82c-b501-4b16-b79e-eb5bbb0c67af.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				7C07B8FF25C3471700DC72E6 /* SceneDelegate.swift */,
 				7C07B90125C3471700DC72E6 /* ViewController.swift */,
 				7C07B90325C3471700DC72E6 /* Main.storyboard */,
+				7C07B93325C3475C00DC72E6 /* 5469c82c-b501-4b16-b79e-eb5bbb0c67af.jpeg */,
 				7C07B90925C3471800DC72E6 /* Assets.xcassets */,
 				7C07B90B25C3471800DC72E6 /* LaunchScreen.storyboard */,
 				7C07B90E25C3471800DC72E6 /* Info.plist */,
@@ -236,6 +239,7 @@
 			files = (
 				7C07B90D25C3471800DC72E6 /* LaunchScreen.storyboard in Resources */,
 				7C07B90A25C3471800DC72E6 /* Assets.xcassets in Resources */,
+				7C07B93425C3475C00DC72E6 /* 5469c82c-b501-4b16-b79e-eb5bbb0c67af.jpeg in Resources */,
 				7C07B90525C3471700DC72E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
